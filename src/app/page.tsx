@@ -59,7 +59,7 @@ const HomePage = () => {
             </Link>
           ))}
         </div>
-        <Link href="/product-list" className="text-lg no-underline text-center">
+        <Link href="/products" className="text-lg no-underline text-center">
           <p className="m-2.5 text-black">More products</p>
         </Link>
       </div>
