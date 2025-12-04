@@ -1,3 +1,5 @@
+/* eslint-disable react/display-name */
+
 import { render, screen, fireEvent } from '@testing-library/react'
 import Cart from './page'
 import { useCartStore } from '@/stores/useCartStore';
